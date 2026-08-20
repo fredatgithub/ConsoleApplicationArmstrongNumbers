@@ -1,1 +1,1 @@
-# ConsoleApplication1Cpp
+# Console Application in C++ to compute Armstrong numbers
